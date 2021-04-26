@@ -9,6 +9,5 @@ pydantic==0.30
 starlette==0.12.0
 websockets==7.0
 keras
-h5py==2.10.0
 botnoi
 tensorflow
