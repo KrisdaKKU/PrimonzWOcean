@@ -3,4 +3,3 @@ keras
 botnoi
 tensorflow
 uvicorn
-request==2.7.0
