@@ -4,3 +4,4 @@ botnoi
 tensorflow
 uvicorn
 pandas
+request
