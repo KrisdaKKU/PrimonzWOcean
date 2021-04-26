@@ -3,5 +3,4 @@ keras
 botnoi
 tensorflow
 uvicorn
-pandas
 request
